@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99927abb-7fd9-4a8d-96a1-c9c3de183c5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gehyBOIwF054rkh76DMVHhjjGD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Kotlin.ProgramaPOOKt">
+    <configuration name="ProgramaPOOKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="nivelamento-kotlin-3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ProgramaPOOKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramasNulosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="nivelamento-kotlin-3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ProgramasNulosKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ProgramaPOOKt" />
+        <item itemvalue="Kotlin.ProgramasNulosKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99927abb-7fd9-4a8d-96a1-c9c3de183c5a" name="Default Changelist" comment="" />
+      <created>1598481217294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598481217294</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1598481232709">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1598481232709" />
+    <state x="428" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598482906621">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="428" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1598482906621" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1598495894624">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598495894624" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1598492833173" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1598495894623">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598495894623" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1598492833171" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1598495894623">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598495894623" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1598492833169" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1598495894623">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598495894623" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1598492833172" />
+  </component>
+</project>
