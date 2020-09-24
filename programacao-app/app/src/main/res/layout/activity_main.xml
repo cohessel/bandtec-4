@@ -7,12 +7,41 @@
     tools:context=".MainActivity">
 
     <TextView
+
+        android:id="@+id/text_view"
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:padding="24dp"
+        android:text="Contador de cliques"
+
+        android:textSize="30sp"
+         />
+
+    <Button
+        android:id="@+id/buttom_contar"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+
+        android:text="Clique e conte"
+        android:textSize="24sp"
+        android:width="350dp"
+
+        android:onClick="contar"
+        app:layout_constraintTop_toBottomOf="@id/text_view"
+        />
+
+    <ImageView
+        android:id="@+id/foto"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:src="@mipmap/safado_emoji"
+
+        app:layout_constraintTop_toBottomOf="@+id/buttom_contar"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
