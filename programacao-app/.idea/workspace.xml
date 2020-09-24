@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a65d8948-9a47-499a-ae93-d51fa46c2e5f" name="Default Changelist" comment="" />
+    <list default="true" id="fc1b4de9-2b08-4c20-981c-0bc7a1689846" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/programacao-app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1gKv2wUJhUCvuQJw3rcncVjWOWo" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hw4GXl2zhunX3c6xwkAm2HqD68" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,35 +36,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/.idea" />
-    </key>
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a65d8948-9a47-499a-ae93-d51fa46c2e5f" name="Default Changelist" comment="" />
-      <created>1597875895626</created>
+      <changelist id="fc1b4de9-2b08-4c20-981c-0bc7a1689846" name="Default Changelist" comment="" />
+      <created>1600908725548</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597875895626</updated>
+      <updated>1600908725548</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="412" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597877616934">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="412" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1597877616934" />
-    <state x="11" y="214" key="new project wizard" timestamp="1597877768867">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="11" y="214" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1597877768867" />
   </component>
 </project>
